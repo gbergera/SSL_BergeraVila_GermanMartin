@@ -1,0 +1,88 @@
+-------------------Reporte del Analisis----------------
+
+Num entero = 23 
+En la linea : 1 
+
+se declaro una variable de tipo int llamada a
+En la linea : 1 
+
+DECLARACIONES
+
+Num entero = 0 
+En la linea : 2 
+
+se declaro una variable de tipo int llamada i
+En la linea : 2 
+
+DECLARACIONES
+
+Num real = 4.700000 
+En la linea : 3 
+
+
+
+error sintactico = syntax error
+ERROR AL DEFINIR LA SENTENCIA 
+En la linea : 3 
+
+SENTENCIAS
+Identificador = a 
+En la linea : 4 
+
+Num entero = 3 
+En la linea : 4 
+
+Se logro derivar por > 
+EXPRESIONES
+
+Num real = 5.400000 
+En la linea : 4 
+
+se declaro una variable de tipo float llamada z
+En la linea : 4 
+
+
+
+Se declaro una sentencia compuesta
+En la linea : 4 
+
+
+Num entero = 0 
+En la linea : 4 
+
+EXPRESIONES
+
+error sintactico = syntax error
+EXPRESIONES
+ERROR SINTACTICO EN EL RETURN, falta ;
+En la linea : 4 
+
+Se declaro una sentencia de salto
+En la linea : 4 
+
+Num entero = 4 
+En la linea : 4 
+
+
+EXPRESIONES
+Identificador = l 
+En la linea : 4 
+
+EXPRESIONES
+error sintactico = syntax error
+ERROR AL DEFINIR LA SENTENCIA 
+En la linea : 4 
+
+
+Se declaro una sentencia compuesta
+En la linea : 4 
+
+Se logro derivar por el If Else 
+Se declaro una sentencia de seleccion
+En la linea : 4 
+
+SENTENCIAS
+
+
+-------------------Fin del Reporte---------------------
+:)
